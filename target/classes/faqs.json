@@ -1,0 +1,157 @@
+[
+  {
+    "question": "How do I register at COERU?",
+    "keywords": [
+      "register",
+      "registration",
+      "apply",
+      "enroll",
+      "admission process"
+    ],
+    "answer": "Kindly visit http://coeruniversity.ac.in to enlist your profile. After enrollment, you need to pay Rs 1000 as registration fee."
+  },
+  {
+    "question": "When can I apply to COERU?",
+    "keywords": [
+      "apply date",
+      "application start",
+      "when to apply",
+      "admission date"
+    ],
+    "answer": "You can apply anytime from January onwards. However, cutoff times for various stages are available on the official website."
+  },
+  {
+    "question": "How to apply offline or disconnected mode?",
+    "keywords": [
+      "offline form",
+      "disconnected mode",
+      "application form",
+      "offline admission"
+    ],
+    "answer": "The offline application form has a unique number. You need to fill this number while enrolling online. You do not need to pay Rs 1000 again."
+  },
+  {
+    "question": "I did not receive email or SMS after registration",
+    "keywords": [
+      "no email",
+      "no sms",
+      "not received message",
+      "registration issue"
+    ],
+    "answer": "If you have not received any email or SMS after enrollment, send your Application Number to admission@coeruniversity.ac.in."
+  },
+  {
+    "question": "Do I need to give entrance exam if I scored 90 percent in 12th?",
+    "keywords": ["entrance exam", "90 percent", "eligibility", "test required"],
+    "answer": "If you have over 90% in 10+2, you need not take the entrance test. However, if results are not declared, it is recommended to appear for the test."
+  },
+  {
+    "question": "Will I get an admit card?",
+    "keywords": ["admit card", "hall ticket", "exam entry"],
+    "answer": "Yes, you will receive your admit card on your registered email ID."
+  },
+  {
+    "question": "Who can I contact for admission queries?",
+    "keywords": ["contact", "phone number", "help", "support", "text"],
+    "answer": "Mobile: 6398689224 or 8070500600, Email: admission@coeruniversity.ac.in."
+  },
+  {
+    "question": "What is the medium of instruction?",
+    "keywords": ["language", "teaching language"],
+    "answer": "English."
+  },
+  {
+    "question": "Does the university help with education loans?",
+    "keywords": ["loan", "education loan", "financial help"],
+    "answer": "Yes, after reserving the seat, a Provisional Admission Certificate is issued. The university also provides Bona-fide and expenditure statements to help process education loans."
+  },
+  {
+    "question": "What are hostel accommodations?",
+    "keywords": ["hostel", "accommodation", "rooms"],
+    "answer": "COERU provides single and double bedded hostel accommodations with AC and Non-AC options. Rooms are allotted on a first-come, first-serve basis."
+  },
+  {
+    "question": "Is hostel fee inclusive of mess and laundry?",
+    "keywords": ["hostel fee", "mess charges", "laundry", "hostel cost"],
+    "answer": "Yes, hostel fee includes laundry (uniform only) and mess charges."
+  },
+  {
+    "question": "Is there a dress code?",
+    "keywords": ["dress code", "uniform"],
+    "answer": "Yes, students are required to follow a dress code inside the campus."
+  },
+  {
+    "question": "Is there any donation quota?",
+    "keywords": ["donation", "management quota"],
+    "answer": "No, all admissions are strictly based on merit. There is no donation quota."
+  },
+  {
+    "question": "Do I need to pay fees during admission?",
+    "keywords": ["fee payment", "pay fees", "admission fee"],
+    "answer": "Yes, the fee must be paid on the day of counselling or admission."
+  },
+  {
+    "question": "What are the payment options?",
+    "keywords": ["payment methods", "fee payment options", "pay fees online"],
+    "answer": "Payment can be made through Debit Card, Credit Card, Net Banking, Paytm, Demand Draft, NEFT or RTGS as per instructions on the admission portal."
+  },
+  {
+    "question": "Can I get direct admission in B.Tech?",
+    "keywords": ["direct admission", "btech admission"],
+    "answer": "You must have a valid JEE Main score and at least 75% in 12th science stream to be eligible."
+  },
+  {
+    "question": "Can I get admission without entrance exam?",
+    "keywords": ["without exam", "no entrance"],
+    "answer": "Admissions are both entrance-based and merit-based depending on eligibility."
+  },
+  {
+    "question": "Are scholarships available?",
+    "keywords": ["scholarship", "financial aid"],
+    "answer": "Yes, scholarships include Covid-19 Warrior, Single Parent, Uttarakhand Domicile, Alumni, Beti Bachao Beti Padhao and Meritorious Student scholarships."
+  },
+  {
+    "question": "What activities are available?",
+    "keywords": ["clubs", "activities", "events"],
+    "answer": "Students can participate in various cultural committees and technical clubs at university and department level."
+  },
+  {
+    "question": "How long does registration processing take?",
+    "keywords": ["processing time", "registration time"],
+    "answer": "It normally takes 3 to 5 working days."
+  },
+  {
+    "question": "What are the fees?",
+    "keywords": ["fees", "fee structure", "tuition fees", "cost"],
+    "answer": "For detailed fee structure, please contact the admission office at 6398689224 or 8070500600, or email admission@coeruniversity.ac.in."
+  },
+  {
+    "question": "Is the hostel fee inclusive of laundry and mess charges?",
+    "keywords": [
+      "hostel fee",
+      "mess charges",
+      "laundry",
+      "hostel cost",
+      "does hostel include food",
+      "is mess included",
+      "laundry included",
+      "hostel charges include"
+    ],
+    "answer": "Yes, the hostel fee is inclusive of laundry (uniform only) and mess charges."
+  },
+  {
+    "question": "What is the attendance policy?",
+    "keywords": ["attendance", "attendance policy", "75% attendace poilicy"],
+    "answer": "The college enforces a stringent 75% attendance policy."
+  },
+  {
+    "question": "Do Studnets get debarred ?",
+    "keywords": ["debarr", "debar", "debarred"],
+    "answer": "Yes, students do get debarred at COER University, primarily due to low attendance (below 75%), failing to meet minimum academic standards, or unfair means during exams."
+  },
+  {
+    "question": "Does COER University host fests ?",
+    "keywords": ["fest", "fests", "cultural events", "cultural fests"],
+    "answer": "Yes, COER University in Roorkee hosts several annual fests and cultural events. The flagship event is Zion, a three-day annual inter-college cultural fest featuring music, dance, and celebrity performances."
+  }
+]
